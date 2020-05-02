@@ -1,5 +1,7 @@
 # Automaton
-The final project from EEL 4935 Makecourse - Automaton.  A self-navigating robot.  Due to Coronavirus, this project hit a wall because 3D printing silhouette could not be printed for USF's campuses were closed.  Well, just like a good soldier, driving on.
+The final project from EEL 4935 Makecourse - Automaton.  A self-navigating robot.  Due to Coronavirus, this project hit a wall because 3D printing silhouette could not be printed for USF's campuses were closed.  Well, just like a good old soldier, driving on.
+
+Special thanks to: Rudy Schlaf, PhD; Jonah Powers; Chad Hager.
 
 Automaton These are the references that I have used to guide me to what I am doing.
 
@@ -34,4 +36,6 @@ Website:
 
 If I have forgotten to mention anyone, please forgive and remind me. (One of my philosophies: Never forget those who helps you. Always be humble and grateful.)
 
-Here is the link to my schematic drawn with Fritzing.org: http://fritzing.org/projects/automaton
+Here is the link to my schematic drawn with Fritzing.org, this project can be found here complete with Arduino Sketch and parts: http://fritzing.org/projects/automaton
+
+For those who wants to see the result, here is the link on YouTube: https://www.youtube.com/watch?v=RKArDRbc8mM 
